@@ -1,0 +1,6 @@
+public class RobotArm06 {
+    public static void main(String[] args ) {
+        System.out.println("Ambil bola di nampan A, taruh di nampan C")
+        
+    }
+}
